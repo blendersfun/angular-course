@@ -26,3 +26,12 @@ Make a file called `tsconfig.json` in the project root directory and put this mi
 }
 ```
 
+Fairly nice: https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+
+## Angular Concepts
+
+It is often the case that the API docs are clearer and more usable than the guides. You have to dig a bit, but you'll run across wonderful examples like this if you do: https://angular.io/api/router/Routes
+
+Immese thanks to Thoughtram. I utilized their free tutorials heavily to gain the understanding I have. They are to-the-point, detailed, and clear. Highly recommended for furthering learnings after this course if you're interested: https://blog.thoughtram.io/all/
+
+Exception that proves the rule. The cheat sheet is actually really great: https://angular.io/guide/cheatsheet
