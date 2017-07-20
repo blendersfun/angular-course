@@ -3,6 +3,7 @@ Code snippits for the angular 4 course I'm presenting at the Vertafore code camp
 
 ## Typescript
 
+Paste into terminal:
 ```bash
 cd tsc-play
 # Initialize an npm module in non-interactive mode:
