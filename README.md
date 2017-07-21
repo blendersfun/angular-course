@@ -36,3 +36,15 @@ It is often the case that the API docs are clearer and more usable than the guid
 Immese thanks to Thoughtram. I utilized their free tutorials heavily to gain the understanding I have. They are to-the-point, detailed, and clear. Highly recommended for furthering learnings after this course if you're interested: https://blog.thoughtram.io/all/
 
 Exception that proves the rule. The cheat sheet is actually really great: https://angular.io/guide/cheatsheet
+
+## Angular CLI
+
+```bash
+# Globally install the cli tool:
+npm i -g @angular/cli
+ng --version
+ng new test-app --skip-install # Personally, I like to do the install seperately.
+cd test-app
+npm i
+ng eject # This is optional. Exposes inner magics. May void warrenty. (:P)
+```
