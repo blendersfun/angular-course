@@ -48,3 +48,6 @@ cd test-app
 npm i
 ng eject # This is optional. Exposes inner magics. May void warrenty. (:P)
 ```
+## Routes
+
+As befored mentioned, this is a great hidden gem in the API docs: https://angular.io/api/router/Routes
