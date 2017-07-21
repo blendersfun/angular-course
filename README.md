@@ -51,3 +51,5 @@ ng eject # This is optional. Exposes inner magics. May void warrenty. (:P)
 ## Routes
 
 As befored mentioned, this is a great hidden gem in the API docs: https://angular.io/api/router/Routes
+
+This is a deeper dive, written by the author of the Router module in Angular. It's very good: https://vsavkin.com/angular-2-router-d9e30599f9ea
