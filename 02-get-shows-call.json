@@ -1,0 +1,83 @@
+[
+  {
+    "title": "BEST FRIEND",
+    "description": "Does your car talk to you? \nChelseas friendship with her Honda, Bluella, is the longest relationship shes ever had. \nBut when faced with a big choice about her own future, Chelsea embarks on a road trip that will determine Bluellas fate  only to discover that Bluellas got opinions and plans of her own.  Whos driving who, here? Can Chelsea and Bluella remain road buddies much longer?",
+    "runningTime": null,
+    "startDate": "2017-08-29",
+    "endDate": "2017-08-29",
+    "venue": "The Jewelbox at the Rendezvous",
+    "price": 10.00
+  },
+  {
+    "title": "Evil Dead the Musical",
+    "description": "Last Chance Productions presents Evil Dead the Musical. You won't want to miss this hilarious live stage show that takes all the elements of the cult classic horror films, Evil Dead, Evil Dead 2, and Army of Darkness and combines them to create one of the craziest theatrical experiences of all time.",
+    "runningTime": null,
+    "startDate": "2017-10-20",
+    "endDate": "2017-10-21",
+    "venue": "Renton Civic Theatre",
+    "price": 14.00
+  },
+  {
+    "title": "Fish Saw",
+    "description": "Through the eyes of a talking Fish, a magical encounter of two girls across time and oceans tells a story of an eccentric family and their giant house by the sea.\n\nIn 2011, Japan had its largest earthquake and subsequent tsunami triggered by the quakes. The tallest waves got up to 40 meters (130ft). It caused over 15,800 deaths and 2,500 people are still missing. The closest city to the epicenter was Sendai, Sachie's hometown. Her mother lived in a town by the sea just south of Sendai. When Sachie first got news of the tsunami, her first thought was she had lost her mother. In fact it was three days later Sachie learned her mother was alive.\n\nFish Saw is a story about Sachie's mother, who is The Little Girl With Glasses, and her family and their giant house by the sea. The show features original animation and musical score.",
+    "runningTime": null,
+    "startDate": "2017-07-29",
+    "endDate": "2017-07-30",
+    "venue": "Theatre Off Jackson",
+    "price": 16.00
+  },
+  {
+    "title": "Hamelt",
+    "description": "HAMLET is a play about endeavoring to meet what time has dealt. Born into a time that is out of joint, personally and politically, the characters must seek into their own hearts to find the actions they can live with  sometimes against the expectations of the world around them.  They must weigh loyalties and sacrifices and survival and make a choice.  And then must act alone and live with the consequences of that action, and in the process come to a new experience of themselves.",
+    "runningTime": null,
+    "startDate": "2017-07-20",
+    "endDate": "2017-07-31",
+    "venue": "Lee Center for the Arts",
+    "price": 0.00
+  },
+  {
+    "title": "Hamelt",
+    "description": "\"Something is rotten in the state of Denmark.\"\n\nJoin us in Elsinore and witness a paranoid and obsessive usurper, a terrorized young woman losing her wits, a lustful queen, a gregarious pomp and at the center of it all a furious and tortured man, struggling to will himself to action.  One of William Shakespeares most famous plays has never been more timely; playing in the greater Seattle area weekends in July! ",
+    "runningTime": 135,
+    "startDate": "2017-07-18",
+    "endDate": "2017-07-28",
+    "venue": "Various Parks, Churches and Community Centers",
+    "price": 0.00
+  },
+  {
+    "title": "Next Fall",
+    "description": "Geoffrey Nauffts witty dialogue and unflinching honesty bring together the love story of Luke, a who believes in God, and Adam, who believes in everything else, in Next Fall. As they attempt to navigate the differences between faithful and faithless, tragedy strikes when an unfortunate accident lands Luke in a coma. While friends and family gather waiting for Luke to wake up, Adam gets acquainted with Arlene, Lukes flighty yet warm mother, and Butch, his religious father. Intercut with scenes from Luke and Adams relationship, Next Fall reminds us of the hope that family brings us even in the darkest of times. Nominated in 2010 for both the Tony and Drama Desk Award for best play, Fantastic.Z presents this real-world romance plays at The Ballard Underground September 29th through October 14th.",
+    "runningTime": null,
+    "startDate": "2017-09-29",
+    "endDate": "2017-10-14",
+    "venue": "The Ballard Underground",
+    "price": 25.00
+  },
+  {
+    "title": "Statements After An Arrest Under the Immorality Act",
+    "description": "\"Statements After an Arrest Under the Immorality Act\" is a devastating love story about an interracial couple hiding their love in South Africa during the heights of apartheid.\n\nErrol Philander, a black African and local principal, has been sneaking into the library at night for secret assignations with a white librarian, Frieda Joubert. We see them one night as they share their hopes and fears until they are discovered by police; Their love is illegal under apartheid and they are arrested. Fugard writes the second half of the play as a surreal poem - unwrapping the psychological effects of institutional racism and exposing the characters innermost fears.",
+    "runningTime": null,
+    "startDate": "2017-07-21",
+    "endDate": "2017-08-12",
+    "venue": "Theatre Schmeater",
+    "price": 27.00
+  },
+  {
+    "title": "The Last Five Years",
+    "description": "This intimate 2002 Off-Broadway musial chronicles the five-year relationship between Jamie, a rising novelist, and Cathy, a struggling actress. Expressed through the evocative music and lyrics of Jason Robert Brown, each traces the course of events from opposite directions (forwards in time for Jamie, backwards for Cathy). At once innovative and familiar, The Last Five Years is filled with insights and observations about the joys and stresses that emerge when two creative people fall in love.",
+    "runningTime": null,
+    "startDate": "2017-09-21",
+    "endDate": "2017-10-02",
+    "venue": "Taproot",
+    "price": 30.00
+  },
+  {
+    "title": "Vanya and Sonia and Masha and Spike",
+    "description": "Lamplight Productions, in collaboration with Katie Soule, presents its second production, \"Vanya and Sonia and Masha and Spike\".\n\nWritten by Christopher Durang, the contemporary playwright who has won more awards than you can swing a dead cat at, \"Vanya and Sonia and Masha and Spike\" has tickled audiences since its premiere in 2012. It won the Tony Award for Best Play, the Drama Desk Award for Best Play and scads of others. Why, you ask? Because its funny and heartfelt and a brilliant commentary on absurd people trying to get a grip. And in reality, in this modern age, arent we all trying to get a grip?",
+    "runningTime": null,
+    "startDate": "2017-09-1",
+    "endDate": "2017-09-17",
+    "venue": "The Bathhouse Theatre",
+    "price": 25.00
+  }
+]
