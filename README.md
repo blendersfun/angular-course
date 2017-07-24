@@ -53,5 +53,3 @@ ng eject # This is optional. Exposes inner magics. May void warrenty. (:P)
 As befored mentioned, this is a great hidden gem in the API docs: https://angular.io/api/router/Routes
 
 This is a deeper dive, written by the author of the Router module in Angular. It's very good: https://vsavkin.com/angular-2-router-d9e30599f9ea
-
-Here's a post that echoes the same uncertainty of how to use the async pipe with an Observable of a single object rather than a list of objects: https://stackoverflow.com/questions/36803389/angular2-async-pipe-not-does-not-fill-object-data-into-template
