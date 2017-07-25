@@ -29,6 +29,8 @@ Make a file called `tsconfig.json` in the project root directory and put this mi
 
 Fairly nice: https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 
+VS Code Typescript Importer: https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter
+
 ## Angular Concepts
 
 It is often the case that the API docs are clearer and more usable than the guides. You have to dig a bit, but you'll run across wonderful examples like this if you do: https://angular.io/api/router/Routes
