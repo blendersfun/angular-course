@@ -3,27 +3,30 @@
     "to": "you@self.org",
     "subject": "Your Mother's Tulips", 
     "body": "Hi, Sonny!\n\nI picked up a bunch of tulips for the parade, but then I realized they belong to your mother. Give her my deepest appologies. I'll make it up to her next spring.\n\nBy the way, how did your stew turn out?\n\nLove,\nGrandpa",
-    "attachments": "",
+    "attachments": [],
     "sentDate": "2017-07-27"
 },{
     "from": "your.mother@gmail.com",
     "to": "you@self.org",
     "subject": "My Dang Tulips", 
     "body": "Alfred,\n\nYour rascal grandfather did it again. He stole all my fine prize tulips for the parade. I'm going to box his ears. Soundly. Please don't respond to him if he appologizes to you about it. It only feeds into his bad habits.\n\nBy the way, did you end up making that stew recipe I sent you? How did it turn out?\n\nRegards,\n\nMother",
-    "attachments": "",
+    "attachments": [],
     "sentDate": "2017-07-26"
 },{
     "from": "elis.jarvis@gmail.com",
     "to": "you@self.org",
     "subject": "A Song I Was Thinking Of", 
-    "body": "Hey you!\n\nI was just thinking of you since you played that song on piano this weekend at church. It's been stuck in my head all week!\n\nDo you want to go to a movie this Friday? I was thinking of seeing that new Turkish documentary about the secret life of cats. How's Mrs. Fluffyboots?\n\nAlso, just wanted to let you know that Alice took her first steps! She's growing up so fast!\n\nBest wishes,\nElis",
-    "attachments": "",
+    "body": "Hey you!\n\nI was just thinking of you since you played that song on piano this weekend at church. It's been stuck in my head all week!\n\nDo you want to go to a movie this Friday? I was thinking of seeing that new Turkish documentary about the secret life of cats. How's Mrs. Fluffyboots?\n\nAlso, just wanted to let you know that Alice took her first steps! She's growing up so fast!\n\nAlso, here's that sheet music you were asking about.\n\nBest wishes,\nElis",
+    "attachments": [
+        "https://www.youtube.com/watch?v=wadbwEYFt8k",
+        "https://www.scribd.com/doc/42170117/Fly-Me-to-the-Moon-Music-Sheet"
+     ],
     "sentDate": "2017-07-23"
 },{
     "from": "best.friend@gmail.com",
     "to": "you@self.org",
     "subject": "Ruff. Roof, Rrrrufff.", 
     "body": "Rurrr,\n\nRuff, rooff, roooo. Ruff, ruh, ruh, rrrrrufff. Ruf-ruf-ruf-grmblrrrrr. Rrrruf. Heh-heh-heh-heh-heh-heh-heh...\n\nRuff-Ruff,\nRoof",
-    "attachments": "",
+    "attachments": [],
     "sentDate": "2017-07-21"
 }]
