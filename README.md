@@ -55,3 +55,48 @@ ng eject # This is optional. Exposes inner magics. May void warrenty. (:P)
 As befored mentioned, this is a great hidden gem in the API docs: https://angular.io/api/router/Routes
 
 This is a deeper dive, written by the author of the Router module in Angular. It's very good: https://vsavkin.com/angular-2-router-d9e30599f9ea
+
+Here's an already setup service for getting a list of a couple messages for populating your email client:
+```typescript
+import { Injectable } from '@angular/core';
+
+import { Http, Response } from '@angular/http';
+import { Observable } from 'rxjs/Observable';
+import 'rxjs/add/operator/map';
+
+export class Message {
+  private constructor(
+    private from: string,
+    private to: string[],
+    private subject: string,
+    private body: string,
+    private attachments: string[],
+    private sentDate: Date
+  ) {}
+
+  static from(json): Message {
+    return new Message(
+      json.from,
+      json.to,
+      json.subject,
+      json.body,
+      json.attachments,
+      new Date(json.sentDate + ' GMT-0800')
+    );
+  }
+
+
+}
+
+@Injectable()
+export class MessagesService {
+  constructor(private http: Http) {}
+
+  getMessages(): Observable<Message[]> {
+    return this.http.get('https://raw.githubusercontent.com/blendersfun/angular-course/716bf3c1016ed9faac74a3618047c022c8e22c17/03-get-messages-call.json')
+                    .map((response: Response) => 
+                      (response.json() || []).map(messageData => Message.from(messageData))
+                    )
+  }
+}
+```
