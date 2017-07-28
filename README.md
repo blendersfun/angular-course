@@ -100,3 +100,4 @@ export class MessagesService {
   }
 }
 ```
+A nice guide to setting up lazy-loading with the CLI: https://keathmilligan.net/lazy-loading-content-with-angular-cli/
