@@ -39,6 +39,8 @@ Immese thanks to Thoughtram. I utilized their free tutorials heavily to gain the
 
 Exception that proves the rule. The cheat sheet is actually really great: https://angular.io/guide/cheatsheet
 
+I like this hello world. I just use it for the code snippits: https://thinkster.io/tutorials/angular-2-hello-world
+
 ## Angular CLI
 
 ```bash
